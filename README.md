@@ -3,4 +3,4 @@
 This is Nahyun Lee's react blog!
 
 
-HTML, CSS, JavaScript, React
+Skills; HTML, CSS, JavaScript, React
